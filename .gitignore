@@ -22,3 +22,9 @@ data/
 .idea/
 __pycache__/
 *.pyc
+
+# Environments & IDE
+.venv/
+.idea/
+__pycache__/
+*.pyc
