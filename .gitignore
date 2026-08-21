@@ -16,3 +16,9 @@ data/
 # Secrets / local
 .streamlit/secrets.toml
 .env
+
+# Environments & IDE
+.venv/
+.idea/
+__pycache__/
+*.pyc
