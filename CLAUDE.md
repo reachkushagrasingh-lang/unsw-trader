@@ -1,8 +1,4 @@
-# CLAUDE.md 
-
-> This file is graded (AI Workflow & Transparency, 20% of the Part). It is YOUR
-> work. Replace this placeholder with the instructions you actually give Claude
-> Code (or your assistant). Do not hand in this file unchanged.
+# CLAUDE.md
 
 ## What this is
 A FinTech pipeline for FINS3645 Part B. It ingests equity and crypto price panels plus a

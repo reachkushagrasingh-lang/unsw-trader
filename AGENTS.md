@@ -1,9 +1,5 @@
 # AGENTS.md - CLAUDE
 
-> This file is graded (AI Workflow & Transparency, 20% of the Part). It is YOUR
-> work. Replace this placeholder with the instructions you actually give your AI
-> coding assistant. Do not hand in this file unchanged.
-
 ## What this is
 A FinTech pipeline for FINS3645 Part B. It ingests equity and crypto price panels plus a
 news feed, builds a family of optimised funds with a walk-forward backtest, computes a
