@@ -9,6 +9,9 @@ Results are precomputed to CSV/PNG and served read-only by a Streamlit app.
 Data sources and schema are defined in `context/DATA_GUIDE.md` — that file is the source
 of truth for column names, tickers, sectors, and date coverage. Do not guess a field.
 
+GITHUB - https://github.com/reachkushagrasingh-lang/unsw-trader/blob/main/results/data/fund_returns.csv
+STREAMLIT APP- https://reachkushagrasingh-lang-unsw-trader-streamlit-app-c9vx6t.streamlit.app/
+
 ## Architecture (build vs serve — this split is load-bearing)
 - **Build** (`scripts/run_part_b.py`, `scripts/innovation_lexicon.py`): does all heavy
   work — backtests, VADER, figures — and writes `results/data/*.csv`,
